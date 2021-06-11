@@ -54,11 +54,7 @@
   if($text == "foto"){
     sendFoto($chatId, "foto.ipg", false, "la mia foto", $api);
   }
-if($text == 'barz'|| $text=='/barz'){
-$barze[0] = "che cos'è una zebra? un cavallo evaso dal carcere"; 
-$barze[1] =  "colmo truffatore?
-		
-		
+
 		
 		//aggiungo il comando di invio
 		//e lo invio
